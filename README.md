@@ -1,3 +1,3 @@
 # FindFlow
 
-Lokaliazce v budovách
+Lokalizace v budovách
